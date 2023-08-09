@@ -1,4 +1,4 @@
-#  <div align="center"> 🧔🧔🧔 Explorando o mundo da Barbearia Alura 🧔🧔🧔 </div>
+#  <div align="center"> 🧔🧔 Explorando o mundo da Barbearia Alura 🧔🧔 </div>
 
 # <div align="center"> Um Projeto Inicial de Desenvolvimento Web  </div>
 
