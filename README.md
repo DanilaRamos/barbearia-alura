@@ -12,7 +12,7 @@ No vasto universo digital, onde a criatividade e a tecnologia se entrelaçam de 
 
 ## E quais objetivos foram alcançados neste projeto?
 
-A jornada de criação desse website trouxe consigo um rico conjunto de aprendizados e desafios, conduzindo os desenvolvedores a uma exploração profunda do HTML5, CSS e JavaScript. 
+A jornada de criação desse website trouxe consigo um rico conjunto de aprendizados e desafios, conduzindo-me a uma exploração profunda do HTML5, CSS e JavaScript. 
 
 * CSS
 * HTML5
@@ -24,13 +24,13 @@ A jornada de criação desse website trouxe consigo um rico conjunto de aprendiz
 
 ## HTML5: A Estrutura Fundamental
 
-A construção do site da barbearia começou com HTML5, a espinha dorsal da web moderna. Através dessa linguagem de marcação, os desenvolvedores deram vida à estrutura fundamental do site. Páginas foram criadas para abranger diferentes aspectos da barbearia - desde informações sobre os serviços oferecidos até uma galeria de imagens que exibe o trabalho artístico dos barbeiros. A semântica do HTML5 foi explorada ao máximo, garantindo que a estrutura estivesse conectada com os padrões modernos de acessibilidade e indexação pelos motores de busca. 
+A construção do site da barbearia começou com HTML5, a espinha dorsal da web moderna. Através dessa linguagem de marcação, eu dei vida à estrutura fundamental do site. Páginas foram criadas para abranger diferentes aspectos da barbearia - desde informações sobre os serviços oferecidos até uma galeria de imagens que exibe o trabalho artístico dos barbeiros. A semântica do HTML5 foi explorada ao máximo, garantindo que a estrutura estivesse conectada com os padrões modernos de acessibilidade e indexação pelos motores de busca. 
 
 ![imagem2](https://github.com/DanilaRamos/barbearia-alura/assets/104326333/93818555-b3a9-416d-a18c-a5847bf7e504)
 
 ## CSS: Estilo e Personalidade
 
-Para dar vida ao design espinha dorsal da web moderna. Através dessa linguagem de marcação, os desenvolvedores deram vida à estrutura fundamental do site. Páginas foram criadas para abranger diferentes aspectos da barbearia - desde informações sobre os serviços oferecidos até uma galeria de imagens que exibe o trabalho artístico dos barbeiros. A semântica do HTML5 foi explorada ao máximo, garantindo que a estrutura estivesse conectada com os padrões modernos de acessibilidade e indexação pelos motores de busca.
+O design deslumbrante e atraente da página inicial capturam instantaneamente a essência da barbearia, com cores sóbrias e texturas que lembram a atmosfera acolhedora do estabelecimento físico. Os elementos visuais e informações são organizados de maneira intuitiva, proporcionando uma navegação fluida e envolvente. 
 
 ![imagem3](https://github.com/DanilaRamos/barbearia-alura/assets/104326333/769bef36-609a-4753-bcb5-a3393e3a5495)
 
@@ -38,7 +38,7 @@ Para dar vida ao design espinha dorsal da web moderna. Através dessa linguagem 
 
 ## Javascript: Interatividade 
 
-Contudo, a jornada de aprendizado não parou por aí. O JavaScript, a linguagem de programação da web, trouxe uma dose de interatividade ao projeto. Desde a implementação de animações suaves até a validação de formulários, o JavaScript adicionou inscrições de funcionalidade que elevaram o projeto a um novo patamar. Ao clicar nos ícones de serviços, o usuário é imerso em um carrossel aquecido que exibe detalhes e informações relevantes. O formulário de agendamento de horários, por sua vez, oferece uma experiência interativa e responsiva, permitindo aos visitantes selecionar datas e horários convenientes em tempo real. 
+Contudo, a jornada de aprendizado não parou por aí. O JavaScript, a linguagem de programação da web, trouxe uma dose de interatividade ao projeto. Desde a implementação de animações suaves até a validação de formulários, o JavaScript adicionou inscrições de funcionalidade que elevaram o projeto a um novo patamar. Ao clicar nos ícones de serviços, o usuário é imerso em um carrossel aquecido que exibe detalhes e informações relevantes. O formulário de agendamento de horários, por sua vez, oferece uma experiência interativa e responsiva, permitindo aos visitantes selecionar datas e horários convenientes. 
 
 ![imagem4](https://github.com/DanilaRamos/barbearia-alura/assets/104326333/b5c25fc3-8c09-4662-a4da-290bdd9fbb32)
 
